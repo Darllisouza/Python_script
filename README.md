@@ -5,4 +5,4 @@ Este código Python usa a biblioteca Boto3 para se conectar ao serviço Amazon S
 
 # Ficha de Compensação Bancária
 
-Este código em Python se conecta a um banco de dados PostgreSQL, executa consultas SQL para extrair dados de transações de duas tabelas e os armazena em DataFrames do Pandas. Em seguida, exporta esses DataFrames para arquivos Excel. O código configura o envio de e-mails via Microsoft Outlook e cria e envia e-mails com as planilhas anexadas, incluindo mensagens personalizadas. Certifique-se de fornecer as credenciais do banco de dados e do Outlook, bem como os caminhos dos arquivos antes de executar o código.
+conecta-se a um banco de dados PostgreSQL, executa consultas SQL para extrair dados de transações de duas tabelas e os armazena em DataFrames do Pandas. Em seguida, exporta esses DataFrames para arquivos Excel. O código configura o envio de e-mails via Microsoft Outlook e cria e envia e-mails com as planilhas anexadas, incluindo mensagens personalizadas.
